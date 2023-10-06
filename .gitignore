@@ -1,0 +1,8 @@
+src/3rdParty/tensorflow/r1.8/libs/Linux/cuda9/libtensorflow_cc.so
+src/3rdParty/tensorflow/r1.8/libs/Linux/cpu/libtensorflow_cc.so
+src/3rdParty/ubuntu-cuda10/libcudnn.so.7
+src/3rdParty/ubuntu-cuda10/libnvinfer.so.5
+src/3rdParty/ubuntu-cuda10/libcublas.so.10.0
+src/det_face_id/libs/linux/gpu/libcudnn.so.7
+src/det_face_id/libs/linux/gpu/libnvinfer.so.5
+src/det_face_id/libs/linux/gpu/libcublas.so.10.0
